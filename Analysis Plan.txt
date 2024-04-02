@@ -1,0 +1,19 @@
+Popular Categories: Analyze the frequency of different categories of food served (e.g., Western, Fast Food, Halal, Chicken, Beverages) to understand the most popular types of cuisine.
+
+Geographical Distribution: Plot the latitude and longitude coordinates of the restaurants on a map to visualize their distribution and identify any clusters.
+
+Operating Hours Analysis: Calculate the average opening and closing times for the restaurants, or analyze peak hours of operation.
+
+Cost Analysis: Investigate the distribution of estimated cost per person to identify price ranges and compare them across different categories or locations.
+
+Rating Analysis: Examine the distribution of ratings and explore factors that might influence ratings, such as category, cost, or delivery type.
+
+Delivery Analysis: Analyze the delivery information, including delivery type, minimum order value, and any associated promotions, to understand the delivery services provided by the restaurants.
+
+Delivery Partner Comparison: Compare the usage of different delivery partners (e.g., GRAB) and their performance in terms of distance covered, minimum order value, etc.
+
+Correlation Analysis: Explore correlations between variables such as rating and cost, distance and delivery time, etc., to uncover potential relationships.
+
+Promotion Analysis: Investigate the effectiveness of promotions (e.g., free delivery using the 'TEATIME' code) by analyzing changes in order frequency or order value during promotional periods.
+
+Customer Behavior Analysis: Analyze customer preferences and behaviors based on factors such as distance, cost, category, and delivery options.
