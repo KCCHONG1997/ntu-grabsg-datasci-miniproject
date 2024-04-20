@@ -6,9 +6,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 [Kaggle | Grab Restaurant in Singapore](https://www.kaggle.com/datasets/polartech/16000-grab-restaurants-in-singapore)
 
 ## Table of Content
-1. [Data Cleaning](Data Cleaning.ipynb)
-2. [Data Exploratory/Analysis/Visualization](Data Analysis.ipynb)
-3. 
+1. [Data Cleaning](./Data%20Cleaning.ipynb)
+2. [Data Exploratory/Analysis/Visualization](./Data%20Analysis.ipynb)
+
 
 ## Contributors
 - @KCCHONG1997
