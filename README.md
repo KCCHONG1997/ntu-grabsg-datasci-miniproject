@@ -19,3 +19,25 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - How can we optimise/improve grab services from this datasets?
 
 ## Models Used
+- **Linear Regression**: Applied to predict 'weighted_rating' from features such as 'delivery_time' and 'total opening time hours', with evaluation using MSE and R².
+
+- **Ridge and Lasso Regression**: Utilized to address potential overfitting and multicollinearity, with models tested across various alpha values to assess impact on performance.
+
+- **Exploratory Data Analysis (EDA)**: Included scatter plots and boxplots to visualize and understand the data relationships and distribution.
+
+- **Outlier Handling**: Identification and removal of outliers to improve model accuracy, particularly for features like 'delivery_time'.
+
+- **One-Hot Encoding**: Transformed categorical variables like 'loc_type' and 'delivery_options' for regression analysis.
+
+- **ANOVA Tests**: Conducted to examine the differences in 'weighted_rating' across categories such as 'delivery_options'.
+
+- **Correlation Analysis**: Performed to determine the strength and direction of relationships between variables.
+
+These methods collectively contributed to a comprehensive data-driven approach to analyze and optimize Grab's services.
+
+## What did we learn from this project?
+- ANOVA technique
+- Ridge and Lasso
+- Data representation like heatmap on google map
+- Other packages: json, statsmodels.api, OneHotEncoder
+- Collaborating using GitHub
