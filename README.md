@@ -11,9 +11,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 ## Contributors
-- @KCCHONG1997
-- @meiyeedope
-- @kaibin157
+- @KCCHONG1997 - Cleaning Data, Data Visualization, Managing github repo and Data Analysis
+- @meiyeedope - Cleaning Data, Data Visualization and Data Analysis (Finding correlation and assist in building model)
+- @kaibin157 - Cleaning Data, Data Visualization and assist in Data Analysis
 
 ## Problem Statement
 - How can we optimise/improve grab services from this datasets?
