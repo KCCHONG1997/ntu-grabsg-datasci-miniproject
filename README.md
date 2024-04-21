@@ -38,6 +38,13 @@ These methods collectively contributed to a comprehensive data-driven approach t
 ## What did we learn from this project?
 - ANOVA technique
 - Ridge and Lasso
-- Data representation like heatmap on google map
+- Data representation like heatmap on map
 - Other packages: json, statsmodels.api, OneHotEncoder
 - Collaborating using GitHub
+
+## References
+- [Ridge and Lasso Tutorial](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/)
+- [ANOVA for Multiple Linear Regression](http://www.stat.yale.edu/Courses/1997-98/101/anovareg.htm)
+- [OneHotEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
+- [GeeksforGeeks - OneHotEncodere](https://www.geeksforgeeks.org/ml-one-hot-encoding/)
+- [OpenStreetMap - Heatmap](https://plotly.com/python/mapbox-density-heatmaps/)
