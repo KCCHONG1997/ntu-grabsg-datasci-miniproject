@@ -46,5 +46,5 @@ These methods collectively contributed to a comprehensive data-driven approach t
 - [Ridge and Lasso Tutorial](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/)
 - [ANOVA for Multiple Linear Regression](http://www.stat.yale.edu/Courses/1997-98/101/anovareg.htm)
 - [OneHotEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
-- [GeeksforGeeks - OneHotEncodere](https://www.geeksforgeeks.org/ml-one-hot-encoding/)
+- [GeeksforGeeks - OneHotEncoder](https://www.geeksforgeeks.org/ml-one-hot-encoding/)
 - [OpenStreetMap - Heatmap](https://plotly.com/python/mapbox-density-heatmaps/)
